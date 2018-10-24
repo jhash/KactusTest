@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "65FA2E32-35CF-4234-BB04-D25F50CE076A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 792,
+    "width": 612,
+    "x": 386,
+    "y": 29
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5E17C401-A340-415B-861A-E022376D925F"
+    },
+    {
+      "class": "shapePath",
+      "id": "B276865B-6B0D-4E3C-92EA-1A0E707305A0"
+    },
+    {
+      "class": "shapePath",
+      "id": "38C35D8D-CDEA-42E0-AF03-581CCE6231CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "78F4F4FE-BB73-485E-9C98-AA2761ACD176"
+    },
+    {
+      "class": "shapePath",
+      "id": "26FD390A-4CE5-402C-8056-ABC04E0583FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "04CA7579-1026-4D57-A961-FC8A148211A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "0E1FBBAC-6D4C-4559-8F40-2675C032F83F"
+    },
+    {
+      "class": "shapePath",
+      "id": "B6D83516-56B9-4618-899F-012D33907061"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D4FEF19-9659-450F-9D40-6B0E2EE22C6C"
+    },
+    {
+      "class": "shapePath",
+      "id": "BDF229C0-664A-4676-9ED5-2B519933955A"
+    },
+    {
+      "class": "shapePath",
+      "id": "752C3A68-11DE-42F2-B16F-E5A6B5B4DE49"
+    },
+    {
+      "class": "shapePath",
+      "id": "921AAA9C-C88C-4BFA-9F23-E7D4E1DE3D7E"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB509E7B-F958-4D57-A2D4-27EF0D671864"
+    },
+    {
+      "class": "shapePath",
+      "id": "B6F32DC5-0DE9-4685-B0D6-88CADC3AEA2E"
+    }
+  ],
+  "name": "Letter",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 792,
+    "name": "Letter",
+    "offersLandscapeVariant": 1,
+    "width": 612
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
