@@ -101,6 +101,38 @@
     {
       "class": "shapePath",
       "id": "B6F32DC5-0DE9-4685-B0D6-88CADC3AEA2E"
+    },
+    {
+      "class": "shapePath",
+      "id": "641E0173-5263-4FF3-A22F-E36480F92CF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D2A6AD1-063F-4967-9DEF-F99F47EB7995"
+    },
+    {
+      "class": "shapePath",
+      "id": "F12248AC-2863-4117-AEE7-B600E73776BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "C28C5615-D270-46AE-8426-14EF131DA28B"
+    },
+    {
+      "class": "shapePath",
+      "id": "59255F6D-D230-4C0B-BA54-39F6603787A1"
+    },
+    {
+      "class": "shapePath",
+      "id": "46C9299E-1F54-41F0-B116-FD2CF07B4CCC"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D4690EC-5EAD-4C7E-A456-A0BA5D47C9DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "5A29D6BC-9E1F-41E1-997F-46E2EB6C0155"
     }
   ],
   "name": "Letter",
